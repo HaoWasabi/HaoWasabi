@@ -18,6 +18,8 @@ Taking about myself
 - FACEBOOK: https://www.facebook.com/giahao.truong.154
 
 ### Let's see more projects with my team
-<img align ="center" alt="SGUnicorn" with="px" src="https://github.com/HaoWasabi/HaoWasabi/assets/139223795/f2edd304-798f-49d5-b82b-9a8a02310f30" />
+<a href = "https://youtu.be/dQw4w9WgXcQ?si=GF1UAKwtEdGqkoN-">   
+<img align ="center" alt="SGUnicorn" with="px"
+</a> src="https://github.com/HaoWasabi/HaoWasabi/assets/139223795/f2edd304-798f-49d5-b82b-9a8a02310f30" />
 
 
