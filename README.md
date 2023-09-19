@@ -20,7 +20,5 @@ Taking about myself
 ### Let's see more projects with my team
 <a href = "https://youtu.be/dQw4w9WgXcQ?si=GF1UAKwtEdGqkoN-">   
 <img align ="center" alt="SGUnicorn" with="px"
-<imp alt="SGUnicorn" width="500px" src="https://photos.app.goo.gl/LW8xmGQC8NRZpgeE8"/>
-
-
+<imp alt="SGUnicorn" width="500px" src="https://github.com/HaoWasabi/htmlTest/assets/139223795/2024e031-e2d6-461d-9e35-a682959bd065"/>
 
