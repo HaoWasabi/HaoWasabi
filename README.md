@@ -20,7 +20,7 @@ Taking about myself
 ### Let's see more projects with my team
 <a href = "https://youtu.be/dQw4w9WgXcQ?si=GF1UAKwtEdGqkoN-">   
 <img align ="center" alt="SGUnicorn" with="px"
-<imp alt="SGUnicorn" width="500px" src="https://photos.app.goo.gl/VuArsyYkTdubxb3R7"/>
+<imp alt="SGUnicorn" width="500px" src="https://photos.app.goo.gl/LW8xmGQC8NRZpgeE8"/>
 
 
 
