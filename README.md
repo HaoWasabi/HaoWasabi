@@ -20,9 +20,9 @@ Taking about myself
 - FACEBOOK: https://www.facebook.com/giahao.truong.154
 
 ### Let's see more projects with my team
-<a href = "https://youtu.be/dQw4w9WgXcQ?si=GF1UAKwtEdGqkoN-">   
-<div align="center">
-  <img align ="center" alt="SGUnicorn" with="500px"
-  <imp alt="SGUnicorn" width="700px" src="https://github.com/HaoWasabi/htmlTest/assets/139223795/2024e031-e2d6-461d-9e35-a682959bd065"/>
-</div>
+<a href = "https://youtu.be/dQw4w9WgXcQ?si=GF1UAKwtEdGqkoN-">
+  <imp align="center" alt="SGUnicorn" width="700px" src="https://github.com/HaoWasabi/HaoWasabi/assets/139223795/a59e063a-9bb3-4fa1-bc70-3fb499cec12f"/>
+</a>
 
+  
+  
