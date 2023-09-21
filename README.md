@@ -20,6 +20,10 @@ Taking about myself
 - FACEBOOK: https://www.facebook.com/giahao.truong.154
 
 ### Let's see more projects with my team
+<a href = "https://youtu.be/V-qnVpN-0EY?si=HlhL8ay5oCYqKiVe">
+   <imp width="500px" src="https://github.com/HaoWasabi/test/assets/139223795/d427db8c-5b41-47c3-9dd5-f1af25b559ed"/>
+</a>
 
+ 
   
   
